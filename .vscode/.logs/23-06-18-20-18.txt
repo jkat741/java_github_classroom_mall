@@ -1,0 +1,4 @@
+23-06-18 20:18 Session started
+----------------------------------------
+20:18:21 Document switched to: c:\Users\NA\Documents\Java_Projekt\test1\src\App.java
+----------------------------------------
