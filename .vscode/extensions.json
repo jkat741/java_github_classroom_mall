@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack",
+        "github.classroom",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test",
+        "redhat.java",
+        "Karye.sessionlogger",
+        "eliostruyf.vscode-hide-comments"
+    ]
+}
+
